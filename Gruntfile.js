@@ -20,7 +20,7 @@ module.exports = function(grunt) {
         compress: {
             dist: {
                 options: {
-                    archive: 'dokuwiki-plugin-codemirror.tar.gz',
+                    archive: 'dokuwiki-plugin-codemirror-fix.tar.gz',
                 },
                 src: [
                     'LICENSE',
