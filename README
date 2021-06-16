@@ -1,15 +1,22 @@
-CodeMirror plugin for DokuWiki
+CodeMirrorFix plugin for DokuWiki
 ==============================
 
 Documentation for this plugin can be found at
 http://www.dokuwiki.org/plugin:codemirror
 
-Source code for this plugin can be found at
+Original source code for this plugin can be found at
 https://github.com/albertgasset/dokuwiki-plugin-codemirror
+
+Source code for this fork is at 
+https://github.com/ajshea/dokuwiki-plugin-codemirror-fix
+
+Forked from 
+https://github.com/cosomocode/dokuwiki-plugin-codemirror
 
 ----
 
 Copyright (C) 2014-2017  Albert Gasset <albertgasset@fsfe.org>
+Copyright (C) 2021 Alan Shea
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
