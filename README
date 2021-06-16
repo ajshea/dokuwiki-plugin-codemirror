@@ -10,6 +10,9 @@ https://github.com/albertgasset/dokuwiki-plugin-codemirror
 Source code for this fork is at 
 https://github.com/ajshea/dokuwiki-plugin-codemirror-fix
 
+Includes fixes by splitbrain and laynee, plus additional fix to 
+prevent autosave from breaking edit window
+
 Forked from 
 https://github.com/cosomocode/dokuwiki-plugin-codemirror
 
