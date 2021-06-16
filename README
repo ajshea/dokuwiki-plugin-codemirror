@@ -1,4 +1,4 @@
-CodeMirrorFix plugin for DokuWiki
+CodeMirror plugin for DokuWiki
 ==============================
 
 Documentation for this plugin can be found at
@@ -13,7 +13,7 @@ https://github.com/ajshea/dokuwiki-plugin-codemirror-fix
 Includes fixes by splitbrain and laynee, plus additional fix to 
 prevent autosave from breaking edit window
 
-Forked from 
+Originally forked from 
 https://github.com/cosomocode/dokuwiki-plugin-codemirror
 
 ----
